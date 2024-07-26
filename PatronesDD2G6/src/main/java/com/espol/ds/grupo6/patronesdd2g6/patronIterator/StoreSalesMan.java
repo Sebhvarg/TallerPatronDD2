@@ -9,5 +9,8 @@ package com.espol.ds.grupo6.patronesdd2g6.patronIterator;
  * @author sebas
  */
 public class StoreSalesMan extends Viewer {
-    
+    @Override
+    public void getInventory(){
+        // Obtener el inventario
+    }
 }

@@ -15,5 +15,6 @@ public class Product {
     private String typeFailure;
     private double price;
     
+    // Constructores
     
 }

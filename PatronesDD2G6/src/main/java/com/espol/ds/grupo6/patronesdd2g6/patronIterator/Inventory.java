@@ -10,8 +10,9 @@ package com.espol.ds.grupo6.patronesdd2g6.patronIterator;
  */
 public class Inventory {
     public void addProduct(Product p){
-    
+        // Code
     }
     public void createIterator(){
+        // Code
     }
 }
